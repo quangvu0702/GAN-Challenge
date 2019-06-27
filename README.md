@@ -17,6 +17,7 @@
    - Chapter 1, 2 [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
  * Targeted attacks
  * Risk, Adversarial risk.
+ * mix-max problem.
  
 ### Project of the Week
  - Exercise in chapter 1 and 2.
