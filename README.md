@@ -37,13 +37,17 @@
 
 ### Project of the Week
  - Exercise in chapter 5.
- 
-- Book:
+
+---
+---
+
+### Book:
   - [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
-- Course:
+
+### Course:
   -  http://www.cs.toronto.edu/~duvenaud/courses/csc2541/
   
-- Reference link:
+### Reference link:
   - https://www.jishuwen.com/d/2tL0/zh-tw
   - https://blog.floydhub.com/gans-story-so-far/
   - http://www.codingwoman.com/generative-adversarial-networks-paper-reading-road-map/
