@@ -10,11 +10,14 @@
 <br>
 
 ## Week 1 - Introduction
+> Many papers present an attack or defense in terms of the method it uses, rather than the problem (meaning, optimization problem) it solves. 
 ---
 ### Theoretical material
  - Reading:
-   - Chapter 1, 2[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
-
+   - Chapter 1, 2 [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
+ * Targeted attacks
+ * Risk, Adversarial risk.
+ 
 ### Project of the Week
  - Exercise in chapter 1 and 2.
  
@@ -22,7 +25,7 @@
 ---
 ### Theoretical material
  - Reading:
-   - Chapter 3, 4[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
+   - Chapter 3, 4 [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
 
 ### Project of the Week
  - Exercise in chapter 3 and 4.
@@ -30,7 +33,7 @@
 ## Week 3 - Beyond adversaries
 ---
  - Reading:
-   - Chapter 5[Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
+   - Chapter 5 [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/introduction/)
 
 ### Project of the Week
  - Exercise in chapter 5.
