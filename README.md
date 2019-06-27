@@ -4,10 +4,11 @@
 
 ## Index
  - **[Week 1 - Introduction](https://github.com/quangvu0702/GAN-Challenge#week-1---Introduction)**
- - **[Week 2 - RL Basics](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---Solving-the-inner-maximization-&-outer-minimization)**
- - **[Week 3 - Beyond adversaries](https://github.com/andri27-ts/60_Days_RL_Challenge#week-3---Beyond-adversaries)**
+ - **[Week 2 - Solving the inner maximization & outer minimization](https://github.com/quangvu0702/GAN-Challenge#week-2---Solving-the-inner-maximization-&-outer-minimization)**
+ - **[Week 3 - Beyond adversaries](https://github.com/quangvu0702/GAN-Challenge#week-3---Beyond-adversaries)**
 
 <br>
+
 ## Week 1 - Introduction
 ---
 ### Theoretical material
