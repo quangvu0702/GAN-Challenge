@@ -4,7 +4,7 @@
 
 ## Index
  - **[Week 1 - Introduction](https://github.com/quangvu0702/GAN-Challenge#week-1---Introduction)**
- - **[Week 2 - Solving the inner maximization & outer minimization](https://github.com/quangvu0702/GAN-Challenge#week-2---Solving-the-inner-maximization-&-outer-minimization)**
+ - **[Week 2 - Solving the inner maximization, outer minimization](https://github.com/quangvu0702/GAN-Challenge#week-2---Solving-the-inner-maximization,-outer-minimization)**
  - **[Week 3 - Beyond adversaries](https://github.com/quangvu0702/GAN-Challenge#week-3---Beyond-adversaries)**
 
 <br>
@@ -18,7 +18,7 @@
 ### Project of the Week
  - Exercise in chapter 1 and 2.
  
-## Week 2 - Solving the inner maximization & outer minimization
+## Week 2 - Solving the inner maximization, outer minimization
 ---
 ### Theoretical material
  - Reading:
